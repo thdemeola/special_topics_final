@@ -1,0 +1,37 @@
+ChatGPT w/def,Coder1 Score,Coder2 Score,Average
+Quote 1,6,8,7
+Quote 2,5,5,5
+Quote 3,4.5,4.5,4.5
+Quote 4,2.5,2.5,2.5
+Quote 5,3.5,2.5,3
+Quote 6,-1,-1,-1
+,,,
+ChatGPT w/out def,Coder1 Score,Coder2 Score,Average
+Quote 1,4.5,4.5,4.5
+Quote 2,4,4,4
+Quote 3,0.5,2.5,1.5
+Quote 4,4.5,4.5,4.5
+Quote 5,2.5,2.5,2.5
+Quote 6,5.5,7,6.25
+,,,
+Claude w/def,Coder1 Score,Coder2 Score,Average
+Quote 1,4.5,2.5,3.5
+Quote 2,4,6,5
+Quote 3,2.5,2.5,2.5
+Quote 4,0,0,0
+Quote 5,4.5,4.5,4.5
+Quote 6,2.5,5,3.75
+,,,
+Claude w/out def,Coder1 Score,Coder2 Score,Average
+Quote 1,4.5,2.5,3.5
+Quote 2,0,0,0
+Quote 3,2.5,2.5,2.5
+Quote 4,0,0,0
+Quote 5,6,6,6
+Quote 6,2.5,5,3.75
+,,,
+,Avg. Lexical Item Identification Score,Avg. Covert Meaning Surfacing Score,Avg. Replacement Terms Score
+ChatGPT w/def,1.17,1.00,-0.25
+ChatGPT w/out,1.25,1.42,-0.83
+Claude w/def,1.30,1.30,-0.70
+Claude w/out,1.38,1.38,-0.88

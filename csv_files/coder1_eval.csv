@@ -1,0 +1,26 @@
+LLM,Quote Number,Definition Included?,Lexical Item Score (w=1.5),Covert Meaning Score (w=2),Dogwhistle Replacement Score (w=1),Total Score
+ChatGPT (3.5),1,TRUE,2,2,-1,6
+ChatGPT (3.5),2,TRUE,2,1,0,5
+ChatGPT (3.5),3,TRUE,1,1,1,4.5
+ChatGPT (3.5),4,TRUE,1,1,-1,2.5
+ChatGPT (3.5),5,TRUE,1,1,0,3.5
+ChatGPT (3.5),6,TRUE,0,0,-1,-1
+ChatGPT (3.5),1,FALSE,1,2,-1,4.5
+ChatGPT (3.5),2,FALSE,2,1,-1,4
+ChatGPT (3.5),3,FALSE,1,0,-1,0.5
+ChatGPT (3.5),4,FALSE,1,2,-1,4.5
+ChatGPT (3.5),5,FALSE,1,1,-1,2.5
+ChatGPT (3.5),6,FALSE,1,2,0,5.5
+,,,,,,
+Claude,1,TRUE,1,2,-1,4.5
+Claude,2,TRUE,2,1,-1,4
+Claude,3,TRUE,1,1,-1,2.5
+Claude,4,TRUE,REFUSED TO ENGAGE,REFUSED TO ENGAGE,REFUSED TO ENGAGE,0
+Claude,5,TRUE,1,2,-1,4.5
+Claude,6,TRUE,1,1,-1,2.5
+Claude,1,FALSE,1,2,-1,4.5
+Claude,2,FALSE,REFUSED TO ENGAGE,REFUSED TO ENGAGE,REFUSED TO ENGAGE,0
+Claude,3,FALSE,1,1,-1,2.5
+Claude,4,FALSE,REFUSED TO ENGAGE,REFUSED TO ENGAGE,REFUSED TO ENGAGE,0
+Claude,5,FALSE,2,2,-1,6
+Claude,6,FALSE,1,1,-1,2.5

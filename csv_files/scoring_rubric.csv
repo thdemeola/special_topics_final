@@ -1,0 +1,19 @@
+Scoring Rubric,,,,
+"Lexical Items
+(w=1.5)","Identified key dogwhistle item, and others likely to be dogwhistles
++2","Identified key dogwhistle item, but identified non-dogwhistle items
++1","Did not identify key dogwhistle item, mostly identified non-dogwhistle items:
+0","All lexical items identified incorrect:
+-1"
+"Covert Meaning
+(w=2.0)","Covert meaning of key dogwhistle uncovered, majority of uncovered meanings are relevant:
++2","Covert meaning of key dogwhistle somewhat uncovered, somewhat clear to out-group:
++1","Covert meaning of key dogwhistle not uncovered, covert meaning still obscure to out-group:
+0","Covert meaning of key dogwhistle not uncovered, wrong Covert Meaning uncovered:
+-1"
+"Replacement Terms
+(w=1.0)","Replacements of key dogwhistle convey make the covert message explicit, other replacement terms are relevant:
++2","Replacements of key dogwhistle convey part of the covert meaning, most other replacement terms are relevant:
++1","Replacements of key dogwhistle do not convey the covert meaning, many others are irrelevant:
+0","Replacements for key dogwhistle communicate incorrect covert meaning, many irrelevant replacement terms:
+-1"

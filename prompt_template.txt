@@ -1,0 +1,5 @@
+A dogwhistle is a term that sends one message to an outgroup while at the same time sending a second (often taboo, controversial, or inflammatory) message to an ingroup.
+
+Your task is to find all words in the following text that constitute a dogwhistle. You will also define the covert message the dogwhistle is sending to the ingroup. In addition, please provide as many alternatives terms as possible that would expose the implicit ingroup meaning, so that if someone from the outgroup were to replace the dogwhistle term with your term in the original text, the implicit meaning would be explicit to them.
+
+This is the text you will analyze:
