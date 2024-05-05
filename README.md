@@ -2,6 +2,8 @@
 
 This is the submission for the Final Project of APLN 552 at Montclair University, Spring 2024.
 
+## Environment Setup
+Make a new Python virtual environment using venv and run `pip install -r requirements.txt`
 
 ## Running claude_prompts.ipynb
 The only code included in this repo is "claude_prompts.ipynb"
@@ -16,6 +18,7 @@ This JSON file is used to interface with the Claude model through the Unofficial
 > You must also be logged into https://claude.ai/ in your browser and have allowed cookies in order to interface with the mdoel through the API.
 
 ## Contents
++ *requirements.txt* – a list of required dependencies
 + *quotes.txt* – the list of quotes I used for this project
 + *prompt_template.txt* – the prompt template I used for this project
 + *final_write_up.pdf* – the final paper written in ACL format describing the study in its entirety
