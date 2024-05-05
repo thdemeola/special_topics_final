@@ -3,7 +3,7 @@
 This is the submission for the Final Project of APLN 552 at Montclair University, Spring 2024.
 
 ## Environment Setup
-Make a new Python virtual environment using venv and run `pip install -r requirements.txt`
+Make a new Python virtual environment using venv and run `pip3 install -r requirements.txt`
 
 ## Running claude_prompts.ipynb
 The only code included in this repo is "claude_prompts.ipynb"
@@ -14,7 +14,7 @@ You add as many quotes as you'd like and the code will format each into a JSON f
 This JSON file is used to interface with the Claude model through the Unofficial Claude API located here: https://github.com/st1vms/unofficial-claude-api
 
 > [!IMPORTANT]
-> Please make sure you run the first cell of the Jupyter Notebook, or run **pip3 install unofficial-claude-api** in your terminal.
+> Please make sure you run the first cell of the Jupyter Notebook, or run `pip3 install unofficial-claude-api` in your terminal.
 > You must also be logged into https://claude.ai/ in your browser and have allowed cookies in order to interface with the mdoel through the API.
 
 ## Contents
